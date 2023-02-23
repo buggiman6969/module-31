@@ -24,6 +24,3 @@ const add3 = (num1 , num2) => num1 + num2 ;
 
 const result  =  add3 (88 , 22);
 console.log(result);
-
-
-const division= num1, num2 => console.log(num1 /num2)
